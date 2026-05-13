@@ -38,3 +38,4 @@ class DataProcessor {
         database.disconnect();
     }
 }
+// теперь этот соответствует принцип DIP
